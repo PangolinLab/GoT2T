@@ -1,0 +1,9 @@
+target/
+.idea/
+.vscode/
+.o
+.so
+.exe
+.a
+.dylib
+.lib
